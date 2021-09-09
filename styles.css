@@ -1,0 +1,18 @@
+#images{
+    text-align:center;
+    margin: auto;
+}
+#images a{
+    margin:0px 20px;
+    display:inline-block;
+    text-decoration:none;
+    color:black;
+}
+
+body {
+    text-align: center;
+}
+
+.top {
+    text-align: left;
+}
